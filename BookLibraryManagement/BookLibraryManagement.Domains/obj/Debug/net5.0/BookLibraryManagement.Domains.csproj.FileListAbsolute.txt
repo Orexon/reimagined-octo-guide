@@ -1,0 +1,12 @@
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\bin\Debug\net5.0\BookLibraryManagement.Domains.deps.json
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\bin\Debug\net5.0\BookLibraryManagement.Domains.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\bin\Debug\net5.0\ref\BookLibraryManagement.Domains.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\bin\Debug\net5.0\BookLibraryManagement.Domains.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.AssemblyInfoInputs.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.AssemblyInfo.cs
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.csproj.CoreCompileInputs.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\ref\BookLibraryManagement.Domains.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Domains\obj\Debug\net5.0\BookLibraryManagement.Domains.csproj.AssemblyReference.cache

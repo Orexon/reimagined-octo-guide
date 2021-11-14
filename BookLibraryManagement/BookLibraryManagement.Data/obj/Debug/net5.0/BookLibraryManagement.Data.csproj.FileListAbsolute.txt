@@ -1,0 +1,14 @@
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\bin\Debug\net5.0\BookLibraryManagement.Data.deps.json
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\bin\Debug\net5.0\BookLibraryManagement.Data.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\bin\Debug\net5.0\ref\BookLibraryManagement.Data.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\bin\Debug\net5.0\BookLibraryManagement.Data.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\bin\Debug\net5.0\BookLibraryManagement.Domains.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\bin\Debug\net5.0\BookLibraryManagement.Domains.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.csproj.AssemblyReference.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.AssemblyInfoInputs.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.AssemblyInfo.cs
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\ref\BookLibraryManagement.Data.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Data\obj\Debug\net5.0\BookLibraryManagement.Data.pdb

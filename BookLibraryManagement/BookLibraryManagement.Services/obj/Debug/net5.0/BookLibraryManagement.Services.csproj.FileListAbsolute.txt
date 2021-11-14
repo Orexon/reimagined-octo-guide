@@ -1,0 +1,17 @@
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.csproj.AssemblyReference.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.AssemblyInfoInputs.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.AssemblyInfo.cs
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Services.deps.json
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Services.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\ref\BookLibraryManagement.Services.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Services.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Data.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Domains.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Data.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\bin\Debug\net5.0\BookLibraryManagement.Domains.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\ref\BookLibraryManagement.Services.dll
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.pdb
+C:\Users\P3CK\Desktop\Examples\BookLibrary\BookLibraryManagement\BookLibraryManagement.Services\obj\Debug\net5.0\BookLibraryManagement.Services.csproj.CopyComplete

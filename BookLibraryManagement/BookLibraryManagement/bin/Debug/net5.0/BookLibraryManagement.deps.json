@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BookLibraryManagement/1.0.0": {
+        "dependencies": {
+          "BookLibraryManagement.Data": "1.0.0",
+          "BookLibraryManagement.Domains": "1.0.0",
+          "BookLibraryManagement.Services": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryManagement.dll": {}
+        }
+      },
+      "BookLibraryManagement.Data/1.0.0": {
+        "dependencies": {
+          "BookLibraryManagement.Domains": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryManagement.Data.dll": {}
+        }
+      },
+      "BookLibraryManagement.Domains/1.0.0": {
+        "runtime": {
+          "BookLibraryManagement.Domains.dll": {}
+        }
+      },
+      "BookLibraryManagement.Services/1.0.0": {
+        "dependencies": {
+          "BookLibraryManagement.Data": "1.0.0",
+          "BookLibraryManagement.Domains": "1.0.0"
+        },
+        "runtime": {
+          "BookLibraryManagement.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookLibraryManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryManagement.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryManagement.Domains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookLibraryManagement.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
