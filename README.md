@@ -1,5 +1,4 @@
-# reimagined-octo-guide - a.k.a
-Console book library management system. 
+# reimagined-octo-guide - a.k.a Console book library management system. 
 
 If you wish to import a JSON book list, the Book model should contain the following properties:
       ○ Name
